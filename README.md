@@ -1,2 +1,2 @@
-# fansite-lennevanes2
-My fansite about NCT WISH
+# prosite-lennevanes
+Typotheque website recreated
